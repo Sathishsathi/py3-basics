@@ -1,0 +1,21 @@
+1. printing
+2. arithmetic
+3. getting input
+	types
+
+4. string operations:
+   1. upper, lower
+   2. isupper, isdigit, isalpha, islower
+   3. slicing, reversing and jumping
+   4. concatinate
+   5. replace
+
+5. data structures:
+   1. list - append, extend, pop, sort, reverse
+   2. tuple
+   3. dict
+
+5. if else
+6. for and while
+
+
