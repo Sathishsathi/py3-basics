@@ -1,5 +1,5 @@
-a = raw_input("Enter value1: ")
-b = raw_input("Enter value2: ")
+a = input("Enter value1: ")
+b = input("Enter value2: ")
 
 print("The sum is : %s" %(a + b))
 print("The difference is : %s" %(b - a))
