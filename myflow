@@ -1,8 +1,8 @@
 1. printing
 2. arithmetic
+   circleworkout
 3. getting input
 	types
-
 4. string operations:
    1. upper, lower
    2. isupper, isdigit, isalpha, islower
@@ -12,8 +12,8 @@
 
 5. data structures:
    1. list - append, extend, pop, sort, reverse
-   2. tuple
-   3. dict
+   2. dict
+   3. tuple
 
 5. if else
 6. for and while
